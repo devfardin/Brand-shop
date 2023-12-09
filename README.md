@@ -1,6 +1,6 @@
-# Retail and E-commerce
+# Retail and E-commerce Website
 
-## [Website Live Link](https://hero-assingment10.netlify.app/) 
+## [Website Live Link](https://brand-shop-ecommerce.netlify.app/) 
 
 ### features of the project:
 
