@@ -1,0 +1,14 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.white-text {
+  color: white !important;
+}
