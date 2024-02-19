@@ -15,7 +15,6 @@
 
 - The article explains the role of brand-focused pages in your e-commerce platform. It highlights how these pages effectively represent the uniqueness and offerings of each brand, contributing to a holistic shopping experience.
 
-- This article discusses the design and implementation of homepage sliders in web design. It explains how these dynamic elements are instrumental in engaging website visitors and promoting important content or deals.
-
+- This article discusses the design and implementation of homepage sliders in web design. It explains how these dynamic elements are instrumental in engaging website visitors and promoting important content or deals
 - This statement outlines the website's user account management system, which enables user registration and login. Users also have the option to log in using their existing Google or GitHub accounts, simplifying the login process.
 "# Brand-shop" 
